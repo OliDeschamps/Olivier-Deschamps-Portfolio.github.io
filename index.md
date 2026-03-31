@@ -9,3 +9,10 @@ layout: home
 ---
 
 Hello world
+
+
+AI Backdoor Attack Detection using Data Privacy - [Tensorflow, MNIST Database] Spring 2025
+
+- Applied differential privacy privacy techniques to an infected MNIST Database by introducing Gaussian noise.
+    
+- Analyzed multiple control groups at varying noise levels to evaluate accuracy and data protection tradeoffs.
